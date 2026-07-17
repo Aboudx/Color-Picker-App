@@ -19,6 +19,12 @@ This project was created as a learning exercise to practice **TrackBar** control
 
 ---
 
+## DEMO
+
+<img width="800" height="495" alt="GIF" src="https://github.com/user-attachments/assets/0bd01a32-0df1-41fa-a700-68bcd9acd671" />
+
+---
+
 ## ✨ Features
 
 - 🎨 Live color preview
